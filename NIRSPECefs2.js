@@ -295,7 +295,7 @@ function drawEchelle() {
     // }
 
 
-    // detector for NIRSPEC is rotated to better fit orders.
+    // detector for NIRSPEC is rotated to better fit orders
     $("#detector").css({
         "transform": "rotate(-5.079deg)"
     })
